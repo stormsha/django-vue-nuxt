@@ -13,4 +13,5 @@ Django REST Framework可以在Django的基础上迅速实现API，并且自身�
 ### 和Django的区别
 
 Rest Framework只是在django的基础上继承django的视图类(view),进行的API接口开发，实现了APIView类
-所以对于熟练使用django的小伙伴来说，使用django-rest-framework还是很轻松的
+，同时也封装了一部分路由功能所以对于熟练使用django的小伙伴来说，使用django-rest-framework还是很轻松的
+
